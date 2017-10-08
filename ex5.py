@@ -28,4 +28,3 @@ if len(result_list) > 0:
     # result_list = [2, 2, 3, 3, 4, 5, 6]
     # print(result_list)
     print (list(set(result_list)))
-
